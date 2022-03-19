@@ -1,0 +1,22 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png");
+   
+}
+p {
+    color: brown;
+}
+.janhallo {
+    font-size: 40px;
+    color: aqua;
+    text-decoration: overline underline;
+}
+.cool {
+    color: blue;
+}
+
+.googlelogo {
+    border: 7px black solid;
+    border-radius: 50px;
+    background-color: aqua;
+}

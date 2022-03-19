@@ -1,0 +1,12 @@
+body {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:white;
+        font-size: 100px    ;
+        font-weight: bold;
+        text-align: center;
+        background-image: url("https://static.dw.com/image/17555450_303.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        float: left;
+        transform: translate(20%, 300%);
+}
